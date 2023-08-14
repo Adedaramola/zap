@@ -1,0 +1,18 @@
+{
+    "name": "adedaramola/zap",
+    "description": "Blazingly fast router for php applications",
+    "type": "libray",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Adedaramola\\Zap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adedaramola",
+            "email": "mailstokindle@gmail.com"
+        }
+    ],
+    "require": {}
+}
